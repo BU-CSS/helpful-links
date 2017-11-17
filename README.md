@@ -1,9 +1,3 @@
----
-title:
-date: 17/11/17
-layout: post
----
-
 # Helpful Resources
 
 Services/Websites:
